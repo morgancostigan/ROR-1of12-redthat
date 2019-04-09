@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 2.5'
 # Adds Devise for assigning users
 gem 'devise', '~> 4.2'
 
+# Adds Bootstrap for styling
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
