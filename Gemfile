@@ -33,6 +33,9 @@ gem 'devise', '~> 4.2'
 # Adds Bootstrap for styling
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
+# Adds Acts As Votable to vote on posts
+gem 'acts_as_votable', '~> 0.10.0'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
